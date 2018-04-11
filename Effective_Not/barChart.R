@@ -1,4 +1,5 @@
 library(ggplot2)
+library(ggthemes)
 
 # Set the working directory to the folder where you have this csv saved
 ugmajor <- read.csv("ugMajor.csv")
